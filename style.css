@@ -119,7 +119,13 @@ body {
     .main-login {
         flex-direction: column;
     }
+
     .left-login > h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .left-login > img {
         display: none;
     }
     .left-login {
